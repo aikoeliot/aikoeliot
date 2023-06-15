@@ -2,8 +2,8 @@
 
 - 🏔️ Currently: training as a software engineer
 - 🌾 Certs: Harvard's CS50
-- 🪐 Front end: HTML, CSS
-- 🔮 Back end: C
+- 🪐 Front end: JavaScript, HTML, CSS
+- 🔮 Back end: Python, SQL, C
 - 💬 Ask me about: anything :)
 - 🌕 How to reach me: (coming soon!)
 - 🧞‍♀️ Pronouns: she/her
