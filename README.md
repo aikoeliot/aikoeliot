@@ -1,6 +1,6 @@
 ### Hello 😇
 
-- 🏔️ Currently: training as a software engineer
+- 🏔️ Currently: learning
 - 🌾 Certs: Harvard's CS50
 - 🪐 Front end: JavaScript, HTML, CSS
 - 🔮 Back end: Python, SQL, C
